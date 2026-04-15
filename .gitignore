@@ -1,11 +1,2 @@
-node_modules/
-*.log
-.DS_Store
-.env
-.vscode/
-.idea/
-dist/
-build/
-*.swp
-*.swo
-*~
+server-*.log
+server-localhost.js
