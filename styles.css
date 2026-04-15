@@ -895,12 +895,13 @@ ul.section-3-desc li {
   z-index: 5;
 }
 
-.section-5 h2, 
-.section-5 p, 
-.section-5 img, 
+.section-5 h2,
+.section-5 p,
+.section-5 img,
+.section-5 ul,
 .section-5 .optima-tags {
   position: relative;
-  z-index: 10;
+  z-index: 20;
 }
 
 .section-5 .section-3-desc,
