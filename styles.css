@@ -570,6 +570,11 @@ section {
   color: #fff;
   font-weight: 700;
   text-shadow: 0 0 10px rgba(56, 189, 248, 0.8);
+  background: linear-gradient(180deg, rgba(56, 189, 248, 0.18), rgba(56, 189, 248, 0.08));
+  padding: 0 6px;
+  border-radius: 999px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 
 .kw-whatsapp { color: #25d366; font-weight: 700; }
@@ -886,6 +891,11 @@ section {
 .section-5 .optima-tags {
   position: relative;
   z-index: 10;
+}
+
+.section-5 .section-3-desc,
+.section-5 .section-3-desc li {
+  color: #fff !important;
 }
 
 /* Section 6 Araura - Replicates Section 2 Promos Background */
