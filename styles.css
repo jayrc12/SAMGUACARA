@@ -893,8 +893,9 @@ section {
   z-index: 10;
 }
 
-.section-5 .section-3-desc,
-.section-5 .section-3-desc li {
+#section5 .section-3-desc,
+#section5 .section-3-desc li,
+#section5 .section-3-desc li::marker {
   color: #fff !important;
 }
 
